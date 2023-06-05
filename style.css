@@ -21,3 +21,9 @@ h1 {
 #googleMap {
 
 } */
+
+a {
+  margin-top: 50px;
+  text-decoration: none;
+  color: black;
+}
