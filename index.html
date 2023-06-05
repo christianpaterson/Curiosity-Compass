@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Document</title>
+</head>
+<body>
+  
+  <div id="header">
+    <h1>Wander Wise</h1>
+
+    <div id="search-div">
+      <input type="text" id="location-input" placeholder="Enter a location" />
+      <button id="search-button">Search</button>
+    </div>
+  </div>
+
+  <div class="section" id="map" style="width:98%;height:400px;"></div>
+  
+  <div class="section" id="articles-container"></div>
+
+  <div class="section" id="googleMap" style="width:98%;height:400px;"></div>
+
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCvCZqlyN1o-wA1BzvTbx1aeEcXIY0V3dc&callback=initializeMaps"></script>
+  <script src="app.js"></script>
+</body>
+</html>
+
+
+
