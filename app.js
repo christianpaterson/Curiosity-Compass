@@ -1,15 +1,6 @@
 function initializeMaps() {
-  // myMap();
   initMap();
 }
-
-// function myMap() {
-//   const mapProp = {
-//     center: new google.maps.LatLng(-37.067549, -12.310659),
-//     zoom: 5,
-//   };
-//   const map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
-// }
 
 function initMap() {
   // Create a new map instance
