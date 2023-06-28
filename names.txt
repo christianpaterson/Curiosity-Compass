@@ -1,6 +1,5 @@
 Curiosity Compass
 CurioCity
 WanderLore
-WanderWise
 WiseVentures
-CurioMap
+WanderWise
