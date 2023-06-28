@@ -1,3 +1,4 @@
+// In case there are mutlitple maps
 function initializeMaps() {
   initMap();
 }
